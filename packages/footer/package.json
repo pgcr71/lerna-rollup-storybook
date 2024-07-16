@@ -1,7 +1,8 @@
 {
-  "name": "footer",
+  "name": "@pothireddy/footer",
   "version": "0.0.1",
   "main": "dist/index.js",
+  "description": "test",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "rimraf dist && rollup --config",
